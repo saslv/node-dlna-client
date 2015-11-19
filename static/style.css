@@ -1,0 +1,40 @@
+html, body{
+	margin: 0;
+	padding: 0;
+	background-color: #ccc;
+}
+
+#container{
+	max-width: 300px;
+	margin: 25px auto 25 auto;
+	border: 1px solid #000;
+	background-color: #fff;
+}
+
+.full-img{
+	width: 80%;
+	margin: 10%;
+}
+
+#logo{
+	text-align: center;
+}
+
+#device{
+    width: 90%;
+    margin: 5%;
+    padding: 5%;
+}
+
+#mediaURL{
+    width: 90%;
+    margin: 5%;
+    padding: 5%;
+}
+
+#play{
+    width: 90%;
+    margin: 5%;
+    padding: 5%;
+    margin-bottom: 0;
+}

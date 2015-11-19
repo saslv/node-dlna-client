@@ -1,0 +1,26 @@
+{
+  "name": "node-dlna",
+  "version": "1.0.0",
+  "description": "node.js dlna media player simple control",
+  "main": "server.js",
+  "dependencies": {
+    "connect": "^3.4.0",
+    "nodecast-js": "^0.1.2",
+    "express": "^4.13.3",
+    "serve-static": "^1.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "saslv",
+  "license": "ISC",
+  "keywords": [
+    "dlna",
+    "nodejs",
+    "remote",
+    "client",
+    "player"
+  ]
+}
